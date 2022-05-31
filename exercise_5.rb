@@ -1,10 +1,9 @@
 def who_is_adult(ages)
   adults = []
 
-
   ages.each do |age|
 
-    if age >= 18
+    if age >= 21
 
       adults << age
     end
@@ -14,4 +13,4 @@ def who_is_adult(ages)
 
 end
 
-p who_is_adult([19, 24, 17, 18, 10, 32])
+p who_is_adult('31, 21, 19, 24, 31, 19')

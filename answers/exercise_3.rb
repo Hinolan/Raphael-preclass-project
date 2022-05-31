@@ -1,4 +1,4 @@
-## Read ruby_arrays.md before you proceed with this activity.
+## Read ruby_arrays.md b  efore you proceed with this activity.
 
 # TODO: EXERCISE 3
 #  Write a function that will take an array of age (integers),
